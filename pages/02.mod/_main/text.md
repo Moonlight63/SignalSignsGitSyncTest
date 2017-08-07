@@ -6,10 +6,10 @@ recaptchacontact:
 ---
 
 [flex]
-[flexitem shrink=50%]
+[flexitem shrink=25%]
 [plugin:page-inject](/mod/_main/_temp-1)
 [/flexitem]
-[flexitem shrink=50%]
+[flexitem shrink=25%]
 [plugin:page-inject](/mod/_main/_temp-2)
 [/flexitem]
 [/flex]
