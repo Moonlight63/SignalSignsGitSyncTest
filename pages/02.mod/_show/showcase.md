@@ -4,7 +4,7 @@ recaptchacontact:
     enabled: false
 ---
 
-Gantry 5 includes a new, powerful Menu editor that makes menu organization, particle and module injection, and visual enhancements a breeze. Here are just a handful of things you can do with Gantry 5’s powerful Menu Editor.
+[left]Gantry 5 includes a new, powerful Menu editor that makes menu organization, particle and module injection, and visual enhancements a breeze. Here are just a handful of things you can do with Gantry 5’s powerful Menu Editor.
 
 * FontAwesome Icons
 * Easy Module Injection
@@ -18,4 +18,5 @@ Gantry 5 includes a new, powerful Menu editor that makes menu organization, part
 * Per-item Image Support
 * Subtitles
 * Non-destructive
-Find out more about using the Menu Editor in our documentation.
+
+Find out more about using the Menu Editor in our documentation.[/left]
