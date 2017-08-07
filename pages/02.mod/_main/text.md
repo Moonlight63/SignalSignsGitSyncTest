@@ -5,5 +5,5 @@ recaptchacontact:
     enabled: false
 ---
 
-[plugin:page-inject](/to/page)
-[plugin:page-inject](/route/to/page)
+[plugin:page-inject](/mod/_main/_temp-1)
+[plugin:page-inject](/mod/_main/_temp-2)
