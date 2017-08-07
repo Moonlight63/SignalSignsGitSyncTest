@@ -5,7 +5,7 @@ recaptchacontact:
     enabled: false
 ---
 
-[flex justify=space-around]
+[flex justify="space-around"]
 [flexitem shrink=50% minw=300px]
 [center]
 [plugin:page-inject](/mod/_main/_temp-1)
