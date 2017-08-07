@@ -5,6 +5,5 @@ recaptchacontact:
     enabled: false
 ---
 
-{{% embed page="/path-or-slug" %}}
-{{% embed page="/path-or-slug" %}}
-{{% embed page="/path-or-slug" %}}
+{{% embed page="/mod/\_main/\_temp-1" %}}
+{{% embed page="/mod/\_main/\_temp-2" %}}
