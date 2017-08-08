@@ -1,9 +1,7 @@
 ---
 title: Parent
 recaptchacontact:
-    enabled: '0'
-    recipient: ''
-    subject: ''
+    enabled: false
 twittercardoptions: summary
 articleenabled: false
 article:
