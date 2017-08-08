@@ -1,7 +1,7 @@
 ---
 title: test2
 recaptchacontact:
-    enabled: false
+    enabled: true
 ---
 
 This is a form.
