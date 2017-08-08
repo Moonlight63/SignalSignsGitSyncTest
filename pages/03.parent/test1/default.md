@@ -4,6 +4,6 @@ recaptchacontact:
     enabled: false
 ---
 
-[bgimg bgimg=img01.jpg]
+[bgimg bgimg=../../../../../themes/g5_helium/images/testimonials/img01.jpg]
 This is a **default** page.
 [/bgimg]
