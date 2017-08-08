@@ -4,7 +4,6 @@ recaptchacontact:
     enabled: false
 ---
 
-[bgimg bgimg=http://signalsigns.com/demosite/user/themes/g5_helium/images/testimonials/img01.jpg?5987e584]
+[bgimg bgimg=![](img01.jpg)]
 This is a **default** page.
 [/bgimg]
-
