@@ -10,5 +10,5 @@ recaptchacontact:
 
 ## Providing over 400 Railroad and Military heralds!
 
-[Head On Over to Our Shop!](../shop?classes=button-gradient,big,button)
+[Head On Over to Our Shop!](../shop?classes=button-outline,big,button)
 [/center]
