@@ -6,6 +6,3 @@ recaptchacontact:
     subject: 'New Online Inquiry'
 ---
 
-# Contact form
-
-Some sample page content
