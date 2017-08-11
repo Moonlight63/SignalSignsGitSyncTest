@@ -1,5 +1,5 @@
 ---
-title: header
+title: Header
 recaptchacontact:
     enabled: false
 ---
