@@ -1,5 +1,7 @@
 ---
 title: Home
+recaptchacontact:
+    enabled: false
 ---
 
 # Grav is Running!
