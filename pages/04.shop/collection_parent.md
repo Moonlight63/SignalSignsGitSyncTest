@@ -7,3 +7,5 @@ recaptchacontact:
 ---
 
 [center]# Main Shop Page![/center]
+
+[plugin:page-inject](/shop/storefront)
