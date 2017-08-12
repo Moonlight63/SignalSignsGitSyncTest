@@ -4,4 +4,4 @@ recaptchacontact:
     enabled: false
 ---
 
-[plugin:page-inject](/shop/storefront)
+[plugin:page-inject](/shop/storefront?template=ecwid)
