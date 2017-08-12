@@ -5,10 +5,8 @@ recaptchacontact:
 ---
 
 [center]
-# Welcome To
 # SIGNAL SIGNS
+# Shop
 
 ## Providing over 400 Railroad and Military heralds!
-
-##[Head On Over to Our Shop!](/shop?classes=button,big,button-outline)
 [/center]
