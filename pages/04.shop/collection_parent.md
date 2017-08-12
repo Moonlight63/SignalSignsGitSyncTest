@@ -6,3 +6,4 @@ recaptchacontact:
     enabled: false
 ---
 
+[center]# Main Shop Page![/center]
