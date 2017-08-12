@@ -1,5 +1,5 @@
 ---
-title: 'Header 2'
+title: Header
 recaptchacontact:
     enabled: false
 ---
