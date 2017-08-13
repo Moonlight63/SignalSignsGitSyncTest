@@ -4,4 +4,3 @@ recaptchacontact:
     enabled: false
 ---
 
-Shop
