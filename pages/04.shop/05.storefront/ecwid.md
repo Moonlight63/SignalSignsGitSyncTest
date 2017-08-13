@@ -3,6 +3,6 @@ title: Storefront
 recaptchacontact:
     enabled: false
 ecwid:
-    storeId: 1010
+    storeId: 1003
 ---
 
