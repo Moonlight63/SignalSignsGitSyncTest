@@ -57,6 +57,6 @@ form:
         -
             message: 'Thank you for your inquiry!'
         -
-            display: /home/thankyou
+            display: /thankyou
 ---
 
