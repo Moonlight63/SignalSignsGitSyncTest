@@ -44,8 +44,7 @@ form:
                 extension: txt
                 body: '{% include ''forms/data.txt.twig'' %}'
         -
-            captcha:
-                recaptcha_secret: ENTER_YOUR_CAPTCHA_SECRET_KEY
+            captcha: null
         -
             message: 'Thank you for signing up! Your account will be converted as soon as possible.'
         -
