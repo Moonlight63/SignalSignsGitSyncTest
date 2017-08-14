@@ -60,8 +60,9 @@ form:
             display: /thankyou
 ---
 
-### Resellers, please note that wholesale pricing has gone to a flat rate!
 [center] 
+### Resellers, please note that wholesale pricing has gone to a flat rate!
+
 To access wholesale pricing, you must create a shopping account with Signal Signs, then fill out this request form to have your account elevated to whole-seller status. This is a very simple 1 time process and takes about 2 minutes.
 If you are an existing reseller with Signal Signs (From before the re-branding), please be aware that your old login credentials will no longer function.
 [/center]
