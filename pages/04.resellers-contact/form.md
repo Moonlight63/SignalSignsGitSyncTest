@@ -66,7 +66,7 @@ form:
 To access wholesale pricing, you must create a shopping account with Signal Signs, then fill out this request form to have your account elevated to whole-seller status. This is a very simple 1 time process and takes about 2 minutes.
 If you are an existing reseller with Signal Signs (From before the re-branding), please be aware that your old login credentials will no longer function.
 [/center]
-1. Click [here](/shop/#!/~/accountSettings) to go to the login page.
+1. Click [here](/shop/#!/~/accountSettings?target=_blank) to go to the login page.
 2. Then, click on Create new account.
 3. Fill out your Name, Email, and create a Password, then click Register.
 4. That's It! Come on back to this page and fill out the form below.
