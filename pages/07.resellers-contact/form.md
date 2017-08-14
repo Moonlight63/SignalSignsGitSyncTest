@@ -1,7 +1,7 @@
 ---
 title: 'Resellers Contact'
 form:
-    name: contact-form
+    name: 'New Wholeseller Account'
     fields:
         -
             name: name
@@ -23,19 +23,16 @@ form:
         -
             type: submit
             value: Submit
-        -
-            type: reset
-            value: Reset
     process:
         -
             email:
                 from: '{{ config.plugins.email.from }}'
                 to: ['{{ config.plugins.email.from }}', '{{ form.value.email }}']
-                subject: '[Feedback] {{ form.value.name|e }}'
+                subject: '[Website Contact] {{ form.value.email|e }}'
                 body: '{% include ''forms/data.html.twig'' %}'
         -
             save:
-                fileprefix: feedback-
+                fileprefix: wholeseller-
                 dateformat: Ymd-His-u
                 extension: txt
                 body: '{% include ''forms/data.txt.twig'' %}'
