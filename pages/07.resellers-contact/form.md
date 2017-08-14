@@ -42,7 +42,7 @@ form:
             email:
                 from: '{{ config.plugins.email.from }}'
                 to: ['{{ config.plugins.email.from }}', '{{ form.value.email }}']
-                subject: '[Website Contact] {{ form.value.email|e }}'
+                subject: '[Website Wholeseller Request] {{ form.value.email|e }}'
                 body: '{% include ''forms/data.html.twig'' %}'
         -
             save:
