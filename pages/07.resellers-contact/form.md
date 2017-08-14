@@ -55,6 +55,6 @@ form:
         -
             message: 'Thank you for signing up! Your account will be converted as soon as possible.'
         -
-            display: thankyou
+            display: /thankyou
 ---
 
