@@ -57,6 +57,6 @@ form:
         -
             message: 'Thank you for your inquiry!'
         -
-            redirect: /thankyou
+            display: /thankyou
 ---
 
