@@ -5,7 +5,7 @@ form:
     fields:
         -
             name: name
-            label: Name
+            label: 'Name on Account'
             placeholder: 'Enter your name'
             autofocus: 'on'
             autocomplete: 'on'
@@ -14,9 +14,16 @@ form:
                 required: true
         -
             name: email
-            label: Email
+            label: 'Email on Account'
             placeholder: 'Enter your email address'
             type: email
+            validate:
+                required: true
+        -
+            name: phone
+            label: 'Contact Phone Number'
+            placeholder: 'Enter your phone number'
+            type: text
             validate:
                 required: true
     buttons:
