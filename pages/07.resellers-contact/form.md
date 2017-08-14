@@ -26,6 +26,13 @@ form:
             type: text
             validate:
                 required: true
+        -
+            name: g-recaptcha-response
+            label: Captcha
+            type: captcha
+            recaptcha_not_validated: 'Captcha not valid!'
+            validate:
+                required: true
     buttons:
         -
             type: submit
