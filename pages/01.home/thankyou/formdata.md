@@ -1,4 +1,4 @@
 ---
-title: 'thankyou 2'
+title: thankyou
 ---
 
