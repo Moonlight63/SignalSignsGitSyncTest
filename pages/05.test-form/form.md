@@ -13,6 +13,6 @@ form:
             name: name
             label: Name
             placeholder: 'Enter your Name'
-            type: text
+            type: textarea
 ---
 
