@@ -1,5 +1,8 @@
 ---
 title: Intro
+process:
+    markdown: true
+    twig: true
 recaptchacontact:
     enabled: false
 ---
