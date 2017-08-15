@@ -21,11 +21,13 @@ We have expanded our product line using the newest sublimation technology availa
 Custom signs available in wood, metal or Sintra®
 
 Contact below for details.
-[/center]
 
 <div class="gallery-container {{ page.header.class }}">
 	{{ unite_gallery(page.media.images, '{"gallery_theme":"' ~ page.header.unitegallery.gallery_theme ~ '"}')|raw }}
 </div>
+[/center]
+
+
  
 * Signal Signs was started in 1969. We used silk screen printing including several screens for each color until the early 2000's. We eventually discovered the main process we have in place today which is Sublimation printing. Basically we use a 400 degree heat press to melt a reverse image onto a board with a special surface that accepts the image. We print signs on wood, metal and mouse pads as well as other products that I have not explored yet.
 * Above is a table shot of us doing a run of our 4" size signs. Some would call them coasters but really they are great for decorating a train themed room, the edge of a mini-bar or whatever you can imagine as a use or design.
