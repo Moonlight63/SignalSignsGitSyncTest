@@ -10,6 +10,9 @@ form:
     name: testform
     fields:
         -
-            location: test
+            name: name
+            label: Name
+            placeholder: 'Enter your Name'
+            type: text
 ---
 
