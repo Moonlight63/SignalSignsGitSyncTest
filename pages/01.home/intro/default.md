@@ -23,7 +23,7 @@ Custom signs available in wood, metal or Sintra®
 Contact below for details.
 
 <div class="gallery-container {{ page.header.class }}">
-	{{ unite_gallery(page.media.images, '{"gallery_theme":"' ~ page.header.unitegallery.gallery_theme ~ '"}')|raw }}
+	{{ unite_gallery(page.media.images, '{"gallery_theme":"' ~ page.header.unitegallery.gallery_theme ~ '", "tiles_type":"justified"}')|raw }}
 </div>
 [/center]
 
