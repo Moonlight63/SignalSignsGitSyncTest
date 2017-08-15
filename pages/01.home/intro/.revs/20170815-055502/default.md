@@ -6,7 +6,7 @@ process:
 recaptchacontact:
     enabled: false
 unitegallery:
-    gallery_theme: justified
+    gallery_theme: tiles
 ---
 
 [center]
