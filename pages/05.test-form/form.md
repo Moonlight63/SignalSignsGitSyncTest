@@ -8,5 +8,8 @@ widget:
                 - { enabled: true }
 form:
     name: testform
+    fields:
+        -
+            location: test
 ---
 
