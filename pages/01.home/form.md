@@ -4,7 +4,7 @@ content:
     items: '@self.children'
 recaptchacontact:
     enabled: false
-forms:
+form:
     name: 'Website Contact'
     fields:
         -
